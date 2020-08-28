@@ -1,0 +1,14 @@
+{
+  "name": "fakebookserver",
+  "version": "1.0.0",
+  "description": "creting a fake server for a book page",
+  "main": "index.js",
+  "scripts": {
+    "json:server": "json-server --watch db.json"
+    },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "json-server": "^0.16.1"
+  }
+}
